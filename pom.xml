@@ -56,9 +56,9 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.jcnc.jnotepad/org.jcnc.jnotepad.JnotepadApp</mainClass>
+                            <mainClass>org.jcnc.ideology/org.jcnc.ideology.TextExample</mainClass>
                             <launcher>${project.name}</launcher>
-                            <jlinkImageName>JNotepad</jlinkImageName>
+                            <jlinkImageName>IDEology</jlinkImageName>
                             <noManPages>true</noManPages>
                             <stripDebug>true</stripDebug>
                             <noHeaderFiles>true</noHeaderFiles>
